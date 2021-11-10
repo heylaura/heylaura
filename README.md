@@ -1,4 +1,4 @@
-### Oii!! Eu sou a Laura :) 
+### Oii :) 
 
 <div align="center">
   <a href="https://github.com/heylaura">
