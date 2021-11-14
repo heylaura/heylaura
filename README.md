@@ -11,7 +11,7 @@
   <img align ="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align ="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" height="200em" alt="gif_laura" src="https://github.com/heylaura/heylaura/blob/main/GIFPAL-20211113224954.gif"> 
+  <img align="right" height="200em" alt="gif_laura" src="https://github.com/heylaura/heylaura/blob/main/mygif.gif" />
 </div>
   
   ##
