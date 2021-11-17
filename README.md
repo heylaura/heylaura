@@ -27,7 +27,18 @@
  <a href="https://www.instagram.com/laura_caroline.s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
- 
+  
   ![Snake animation](https://github.com/heylaura/heylaura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
+ <div style="display: inline_block"><br>
+   <h2 align="center"> About me 👽</h2>
+   <body>
+     <h4> ⚖ Graduada em Direito pela Universidade Federal de Mato Grosso do Sul </h4>
+     <h4> 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC </h4>
+     <h4> 🌎 Apaixonada por Direito Ambiental </h4>
+     <h4> 🌱 Interesse em Green IT e Tecnologias Sustentáveis </h4>
+     <h4> 🐈 Amor incondicional por gatos </h4>
+     
