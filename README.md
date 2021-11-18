@@ -1,6 +1,11 @@
-### Oii :) 
-##
+<h1 align="center"> Hello! Welcome strangers 🖖🏼 </h1>
 <br>
+
+
+
+![banner (2)](https://user-images.githubusercontent.com/93989671/142350652-9de9605c-c3be-4da7-8839-87ba75e12085.png) 
+<!-- Fonte imagem banner: https://c4.wallpaperflare.com/wallpaper/822/341/74/touch-the-universe-hd-wallpaper-wallpaper-preview.jpg -->
+
 
 <div align="center">
   <a href="https://github.com/heylaura">
@@ -8,19 +13,19 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heylaura&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  
+  <div align="center" style="display: inline_block"><br>
     <h2 align="center"> Currently Learning 📚</h2>
   <img align ="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align ="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align ="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" height="180em" alt="gif_laura" src="https://github.com/heylaura/heylaura/blob/main/mygif.gif" />
 </div>
   
   <br>
  
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <a href= "mailto:silva_lauracaroline@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href= "mailto:silva.lauracarolineadv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-caroline-silva-b240811a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -36,6 +41,7 @@
  <div style="display: inline_block"><br>
    <h2 align="center"> About me 👽</h2>
    <body>
+     <img align="right" height="220em" width="220" src="https://i.imgur.com/k8TI4sY.gif?noredirect" />
      <h4> ⚖ Graduada em Direito pela Universidade Federal de Mato Grosso do Sul </h4>
      <h4> 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC </h4>
      <h4> 🌎 Apaixonada por Direito Ambiental </h4>
