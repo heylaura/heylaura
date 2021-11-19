@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! Welcome strangers 🖖🏼 </h1>
+<h1 align="center"> Hello! Welcome strangers 🖖</h1> 
 <br>
 
 
