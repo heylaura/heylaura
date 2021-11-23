@@ -42,7 +42,7 @@
  <div style="display: inline_block"><br>
    <h2 align="center"> About me 👽</h2>
    <body>
-     <img align="right" height="220em" width="220" src="https://i.imgur.com/k8TI4sY.gif?noredirect" />
+     <img align="right" height="300em" width="300" src="https://images.squarespace-cdn.com/content/v1/5cb1c060f8135a75cf1cedb6/1581842978087-C613KZXN2RIKR6RH3H4J/ezgif.com-gif-       maker+%2822%29.gif"" />
      <h4> ⚖ Graduada em Direito pela Universidade Federal de Mato Grosso do Sul </h4>
      <h4> 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC </h4>
      <h4> 🌎 Apaixonada por Direito Ambiental </h4>
