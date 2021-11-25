@@ -1,7 +1,6 @@
 <h1 align="center"> Hello! Welcome strangers 🖖</h1> 
 <br>
 
-<body bg-color="black">
 
 ![banner (2)](https://user-images.githubusercontent.com/93989671/142350652-9de9605c-c3be-4da7-8839-87ba75e12085.png) 
 <!-- Fonte imagem banner: https://c4.wallpaperflare.com/wallpaper/822/341/74/touch-the-universe-hd-wallpaper-wallpaper-preview.jpg -->
@@ -50,6 +49,4 @@
      <h4> 🐈 Amor incondicional por gatos </h4>
      <h4> 🚀 Ready to collaborate? </h4>
    </body>
- </body>
-
  </div>
