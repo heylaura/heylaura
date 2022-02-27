@@ -47,7 +47,7 @@
      <h4> 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC </h4>
      <h4> 🌎 Apaixonada por Direito Ambiental </h4>
      <h4> 🌱 Interesse em Green IT e Tecnologias Sustentáveis </h4>
-     <h4> 🐈 Amor incondicional por gatos </h4>
+     <h4> 🐈 Cat lover </h4>
      <h4> 🚀 Ready to collaborate? </h4>
    </body>
  </div>
